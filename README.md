@@ -1,4 +1,4 @@
-A very simple memory gae I used to showcase an example of React/Redux artitechture (my first on this Github, woohoo!)
+A very simple memory game I used to showcase an example of React/Redux artitechture (my first on this Github, woohoo!)
 
 To download, fork the repo, npm install.
 
