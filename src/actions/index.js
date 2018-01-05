@@ -36,6 +36,7 @@ export const matchCards = (indeces) => {
 }
 
 export const restartGame = () => {
+  numberOfTurns = 0
   return {
     type: 'RESTART_GAME'
   }
